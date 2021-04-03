@@ -27,6 +27,7 @@ library(calculum)
 
 ## **Use**
 
+Example:  
 This function sum two parameters.
 
 ``` r
